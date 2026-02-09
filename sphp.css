@@ -1,0 +1,10 @@
+h1 {
+    text-align: center;
+}
+form {
+    text-align: center;
+    border: 1px solid black;
+    width: 50%;
+    margin: 0 auto;
+    background-color: aqua;
+}
